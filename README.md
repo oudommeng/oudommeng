@@ -27,7 +27,10 @@ Welcome to my GitHub page!
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommeng&count_private=true&theme=transparent&show_icons=true&hide=css&layout=compact&card_width=270&langs_count=10" alt="Phat Panhareach's Most Used GitHub Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommeng&count_private=true&theme=transparent&show_icons=true&hide=css&layout=compact&card_width=270&langs_count=10"/>
 </a>
+</p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oudommeng&theme=moonlight" height="200em" />
+</div>
 
 
