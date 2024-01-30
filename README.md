@@ -18,6 +18,8 @@
 <a href="https://linkedin.com/in/meng-oudom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meng-oudom" height="30" width="40" /></a>
 <a href="https://fb.com/mengsovathmonioudom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mengsovathmonioudom" height="30" width="40" /></a>
 <a href="https://instagram.com/oudom.mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oudom.mg" height="30" width="40" /></a>
+<a href="https://t.me/OudomMeng" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="oudom.mg" height="30" width="40" /></a>
+
 </p>
 
 Welcome to my GitHub page! 
