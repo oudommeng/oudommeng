@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meng Oudom</h1>
-
 <h3 align="center">My name is Meng Oudom and I am currently a student of Computer Science at the Cambodia Academy of Digital Technology. I am eager to learn and grow my skills in the field of Computer Science.</h3>
-
-<table style="border: none;">
-  <tr>
-    <td valign="top" style="border: none;">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif">
 
 - 🌱 I’m currently learning **Flutter, React Native, React js.**
 - 📫 How to reach me **oudommeng@outlook.com**
@@ -12,13 +8,10 @@
 - [![committers.top badge](https://user-badge.committers.top/cambodia/oudommeng.svg)](https://user-badge.committers.top/cambodia/oudommeng)
 - <a href="https://github.com/oudommeng/">
      <img src="https://komarev.com/ghpvc/?username=oudommeng">
-  <!-- </a>
-  <hr style="height:2px; border:none; color:#333; background-color:#333; margin-top: 20px; margin-bottom: 20px;"> -->
 
-    </td>
-    <td valign="top" style="border: none;"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5hOXV1dDByemIyMThvYXg0dXEyZHl1M3ZlcTlrbWp5Nmg2c2wwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif" alt="code"></td>
-  </tr>
-</table>
+
+
+</div>
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/sovathmonioudom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sovathmonioudom" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meng-oudom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meng-oudom" height="30" width="40" /></a>
