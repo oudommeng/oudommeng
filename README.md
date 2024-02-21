@@ -1,18 +1,24 @@
 <h1 align="center">Hi 👋, I'm Meng Oudom</h1>
+
 <h3 align="center">My name is Meng Oudom and I am currently a student of Computer Science at the Cambodia Academy of Digital Technology. I am eager to learn and grow my skills in the field of Computer Science.</h3>
 
+<table style="border: none;">
+  <tr>
+    <td valign="top" style="border: none;">
 
 - 🌱 I’m currently learning **Flutter, React Native, React js.**
-
 - 📫 How to reach me **oudommeng@outlook.com**
-
-- ⚡ Fun fact **I eat alot**
+- ⚡ Fun fact **I eat a lot**
 - [![committers.top badge](https://user-badge.committers.top/cambodia/oudommeng.svg)](https://user-badge.committers.top/cambodia/oudommeng)
 - <a href="https://github.com/oudommeng/">
-   <img src="https://komarev.com/ghpvc/?username=oudommeng">
-</a>
-<hr style="height:2px; border:none; color:#333; background-color:#333; margin-top: 20px; margin-bottom: 20px;">
+     <img src="https://komarev.com/ghpvc/?username=oudommeng">
+  <!-- </a>
+  <hr style="height:2px; border:none; color:#333; background-color:#333; margin-top: 20px; margin-bottom: 20px;"> -->
 
+    </td>
+    <td valign="top" style="border: none;"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5hOXV1dDByemIyMThvYXg0dXEyZHl1M3ZlcTlrbWp5Nmg2c2wwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif" alt="code"></td>
+  </tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/sovathmonioudom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sovathmonioudom" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meng-oudom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meng-oudom" height="30" width="40" /></a>
@@ -22,7 +28,7 @@
 
 </p>
 
-Welcome to my GitHub page! 
+Welcome to my GitHub page!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=oudommeng&theme=transparent&show_icons=true" alt="Oudom Meng's GitHub Stats" />
@@ -36,7 +42,3 @@ Welcome to my GitHub page!
 </div>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oudommeng&theme=transparent&utcOffset=7" height="200em" />
 </div>
-
-
-
-
