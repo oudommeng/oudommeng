@@ -25,6 +25,12 @@
 
 ---
 
+### ឧត្តមកំពុងស្ដាប់ (Currently Listening)
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3174aclmtikztsmxjx5h26neuose&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/3174aclmtikztsmxjx5h26neuose)
+
+---
+
 [![Committers Badge](https://user-badge.committers.top/cambodia/oudommeng.svg)](https://user-badge.committers.top/cambodia/oudommeng)
 ![Profile Views](https://komarev.com/ghpvc/?username=oudommeng)
 
