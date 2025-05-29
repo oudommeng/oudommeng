@@ -57,6 +57,10 @@
 
 ---
 
+### 📈 WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=oudommeng&theme=transparent&show_icons=true" alt="Oudom Meng's GitHub Stats" />
