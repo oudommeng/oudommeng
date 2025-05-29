@@ -59,6 +59,79 @@
 
 ### 📈 WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 641.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 99 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 20 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                308 commits         ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌆 Daytime                380 commits         ██████████░░░░░░░░░░░░░░░   38.35 % 
+🌃 Evening                293 commits         ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Tuesday                  161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Wednesday                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Thursday                 190 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Friday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Sunday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Phnom_Penh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   12 repos            ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Dart                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+C++                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/oudommeng/oudommeng/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/05/2025 05:17:51 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 GitHub Stats
