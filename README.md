@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Meng Oudom</h1>
 <h3 align="center">
-  Welcome to my GitHub! I’m a passionate Full-Stack Developer and a Year 4 Computer Science student at the Cambodia Academy of Digital Technology. 
-  I’m dedicated to learning, building, and contributing to meaningful projects in the tech world.
+  Welcome to my GitHub! I’m a passionate Full-Stack Developer, Game Developer, and Computer Science graduate from the Cambodia Academy of Digital Technology (CADT), currently pursuing a Master's in Artificial Intelligence and Data Science.
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif">
 
----
-
-### 🌱 What I'm Currently Learning
-- **Flutter** for cross-platform mobile development.
-- **React Native** for dynamic mobile apps.
-- **React.js** for building modern and interactive web applications.
-
----
 
 ### 📫 How to Reach Me
 - Email: **oudombig007@gmail.com**
@@ -54,7 +45,6 @@
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Telegram" height="30" width="40" />
   </a>
 </p>
-
 ---
 
 ### 📈 WakaTime Stats
