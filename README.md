@@ -104,17 +104,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-GAML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Python                   21 repos            ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+GAML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 
 
 
 
- Last Updated on 20/06/2026 18:15:16 UTC
+ Last Updated on 21/06/2026 18:21:57 UTC
 <!--END_SECTION:waka-->
 <!-- 
 ### 📊 GitHub Stats
