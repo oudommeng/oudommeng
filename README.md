@@ -83,7 +83,7 @@
 
 ## 🎮 Current Activity
 
-![PreMiD Activity](https://premid-github-readme.vercel.app/api/activity-card?bg=transparent&accent=F51010)
+![PreMiD Activity](https://premid-github-readme.vercel.app/api/activity-card?bg=transparent)
 
 ---
 
