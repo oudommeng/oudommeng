@@ -1,11 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Meng+Oudom;Full-Stack+Developer;Game+Developer;AI+%26+Data+Science+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=12284C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Meng+Oudom;Full-Stack+Developer;Game+Developer;AI+%26+Data+Science+Student" alt="Typing SVG" />
 
 <br/>
 
 [![Committers Badge](https://user-badge.committers.top/cambodia/oudommeng.svg)](https://user-badge.committers.top/cambodia/oudommeng)
-![Profile Views](https://komarev.com/ghpvc/?username=oudommeng&color=2F81F7&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=oudommeng&color=12284C&style=flat)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oudommeng/oudommeng/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/oudommeng/oudommeng/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -59,17 +64,17 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oudommeng&theme=transparent&show_icons=true&include_all_commits=true&count_private=true" alt="Oudom Meng's GitHub Stats" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=oudommeng&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&title_color=12284C&icon_color=12284C" alt="Oudom Meng's GitHub Stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommeng&count_private=true&theme=transparent&hide=css&layout=compact&card_width=270&langs_count=10" alt="Top Languages" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=oudommeng&count_private=true&theme=transparent&hide=css&layout=compact&card_width=270&langs_count=10&title_color=12284C" alt="Top Languages" />
 </a>
 
 <br/>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oudommeng&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oudommeng&theme=transparent&ring=12284C&fire=12284C&currStreakLabel=12284C" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -184,6 +189,6 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 Feel free to explore my projects, and don't hesitate to reach out for collaboration opportunities!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=12284C&height=120&section=footer" width="100%" alt="Footer wave" />
 
 </div>
