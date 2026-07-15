@@ -1,53 +1,89 @@
-<h1 align="center">Hi 👋, I'm Meng Oudom</h1>
-<h3 align="center">
-  Welcome to my GitHub! I’m a passionate Full-Stack Developer, Game Developer, and Computer Science graduate from the Cambodia Academy of Digital Technology (CADT), currently pursuing a Master's in Artificial Intelligence and Data Science.
-</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Meng+Oudom;Full-Stack+Developer;Game+Developer;AI+%26+Data+Science+Student" alt="Typing SVG" />
 
-
-### 📫 How to Reach Me
-- Email: **oudombig007@gmail.com**
-
----
-
-### ⚡ Fun Fact
-- **I eat a lot**, but it fuels my creativity! 😄
-
----
-
-### ឧត្តមកំពុងស្ដាប់ (Currently Listening)
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3174aclmtikztsmxjx5h26neuose&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/3174aclmtikztsmxjx5h26neuose)
-
----
+<br/>
 
 [![Committers Badge](https://user-badge.committers.top/cambodia/oudommeng.svg)](https://user-badge.committers.top/cambodia/oudommeng)
-![Profile Views](https://komarev.com/ghpvc/?username=oudommeng)
+![Profile Views](https://komarev.com/ghpvc/?username=oudommeng&color=2F81F7&style=flat)
+
+</div>
 
 ---
 
-### 🔗 Connect With Me:
-<p align="left">
-  <a href="https://twitter.com/sovathmonioudom" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/meng-oudom" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mengsovathmonioudom" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/oudom.mg" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://t.me/OudomMeng" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Telegram" height="30" width="40" />
-  </a>
-</p>
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif">
+
+- 🎓 Computer Science graduate from **Cambodia Academy of Digital Technology (CADT)**
+- 📚 Pursuing a **Master's in Artificial Intelligence & Data Science**
+- 💻 Passionate **Full-Stack Developer** & **Game Developer**
+- 🌏 Based in **Phnom Penh, Cambodia** 🇰🇭
+- 📫 Reach me at **[oudombig007@gmail.com](mailto:oudombig007@gmail.com)**
+- ⚡ Fun fact: **I eat a lot**, but it fuels my creativity! 😄
+
+<br clear="right"/>
+
 ---
 
-### 📈 WakaTime Stats
+## 🛠️ Tech Stack
+
+### Languages
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frameworks & Tools
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### AI & Data Science
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oudommeng&theme=transparent&show_icons=true&include_all_commits=true&count_private=true" alt="Oudom Meng's GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommeng&count_private=true&theme=transparent&hide=css&layout=compact&card_width=270&langs_count=10" alt="Top Languages" />
+</a>
+
+<br/>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oudommeng&theme=transparent" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
+## 🎮 Current Activity
+
+![PreMiD Activity](https://premid-github-readme.vercel.app/api/activity-card)
+
+---
+
+## 📈 WakaTime Stats
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2035%20mins-blue?style=flat)
 
@@ -124,22 +160,30 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
  Last Updated on 14/07/2026 18:06:37 UTC
 <!--END_SECTION:waka-->
-<!-- 
-### 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=oudommeng&theme=transparent&show_icons=true" alt="Oudom Meng's GitHub Stats" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudommeng&count_private=true&theme=transparent&show_icons=true&hide=css&layout=compact&card_width=270&langs_count=10" />
-</a>
 
 ---
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oudommeng&theme=transparent&" height="250em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oudommeng&theme=transparent&utcOffset=7" height="200em" />
+## 🔗 Connect With Me
 
---- -->
+<div align="center">
 
-### 🚀 Welcome to my GitHub!
-Thank you for visiting my profile. Feel free to explore my projects, and don’t hesitate to reach out for collaboration opportunities!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meng-oudom)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sovathmonioudom)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mengsovathmonioudom)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oudom.mg)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OudomMeng)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oudombig007@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting!
+
+Feel free to explore my projects, and don't hesitate to reach out for collaboration opportunities!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer" width="100%" alt="Footer wave" />
+
+</div>
