@@ -90,6 +90,8 @@
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2014%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.27%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -104,6 +106,47 @@
  > 
 > 🔑 36 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                450 commits         ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+🌆 Daytime                688 commits         ███████████░░░░░░░░░░░░░░   42.81 % 
+🌃 Evening                432 commits         ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   241 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Tuesday                  246 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Wednesday                298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Thursday                 300 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Saturday                 148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Sunday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Phnom_Penh
+
+💬 Programming Languages: 
+Other                    51 mins             █████████████████░░░░░░░░   69.52 % 
+JSON                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+
+🔥 Editors: 
+AdobeIllustrator2025     38 mins             █████████████░░░░░░░░░░░░   52.32 % 
+VS Code                  22 mins             ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Gama                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+AdobePhotoshop2025       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+
+💻 Operating System: 
+Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -117,7 +160,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 18:21:10 UTC
+ Last Updated on 25/07/2026 14:50:17 UTC
 <!--END_SECTION:waka-->
 
 ---
