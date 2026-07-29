@@ -90,6 +90,10 @@
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2016%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -104,6 +108,72 @@
  > 
 > 🔑 41 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                454 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+🌆 Daytime                696 commits         ███████████░░░░░░░░░░░░░░   42.78 % 
+🌃 Evening                440 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  264 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Wednesday                298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Thursday                 300 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Sunday                   203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Phnom_Penh
+
+💬 Programming Languages: 
+HTML                     1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   38.31 % 
+Other                    39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+
+🔥 Editors: 
+Claude Code              1 hr 27 mins        ███████████░░░░░░░░░░░░░░   42.90 % 
+Antigravity IDE          55 mins             ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+VS Code                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+AdobeIllustrator2025     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Gama                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+
+💻 Operating System: 
+Mac                      3 hrs 24 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 47 mins (52.26%)
+
+✍️ 1,704 lines written by AI, 251 lines written by hand (87.16% AI-written)
+
+🔤 20,145,163 Input Tokens, 101,049 Output Tokens
+
+💵 $61.95 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 33 AI Prompts
+
+Sonnet                   1,834 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 87.16% of written lines came from AI
+📄 Detailed Prompter — average 509 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 31.64% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -117,7 +187,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 18:17:53 UTC
+ Last Updated on 29/07/2026 18:11:05 UTC
 <!--END_SECTION:waka-->
 
 ---
