@@ -135,43 +135,43 @@ Sunday                   203 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-HTML                     1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   37.29 % 
-Other                    39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+HTML                     1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   39.41 % 
+Python                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+TypeScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 
 🔥 Editors: 
-Claude Code              1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   41.75 % 
-Antigravity IDE          1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-VS Code                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-AdobeIllustrator2025     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Gama                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Claude Code              1 hr 27 mins        ███████████░░░░░░░░░░░░░░   44.11 % 
+Antigravity IDE          1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   33.49 % 
+VS Code                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Gama                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Notion                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 49 mins (52.19%)
+⏱ AI Coding Time: 1 hr 55 mins (58.11%)
 
-✍️ 1,704 lines written by AI, 282 lines written by hand (85.8% AI-written)
+✍️ 1,704 lines written by AI, 283 lines written by hand (85.76% AI-written)
 
 🔤 20,145,163 Input Tokens, 101,049 Output Tokens
 
 💵 $61.95 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 37 AI Prompts
+🧠 5 AI Sessions, 38 AI Prompts
 
 Sonnet                   1,834 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.8% of written lines came from AI
-📝 Concise Prompter — average 472 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 33.09% of changed lines were hand-edited
+🤖 AI-Driven — 85.76% of written lines came from AI
+📝 Concise Prompter — average 460 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 33.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -187,7 +187,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 18:19:29 UTC
+ Last Updated on 31/07/2026 18:23:53 UTC
 <!--END_SECTION:waka-->
 
 ---
