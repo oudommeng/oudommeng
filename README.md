@@ -111,21 +111,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                454 commits         ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-🌆 Daytime                698 commits         ███████████░░░░░░░░░░░░░░   42.80 % 
-🌃 Evening                442 commits         ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+🌞 Morning                454 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+🌆 Daytime                694 commits         ███████████░░░░░░░░░░░░░░   42.66 % 
+🌃 Evening                442 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
 🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Tuesday                  266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Wednesday                298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Thursday                 300 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Saturday                 148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Sunday                   203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Monday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Tuesday                  262 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Wednesday                298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Thursday                 300 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Sunday                   203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 ```
 
 
@@ -135,43 +135,43 @@ Sunday                   203 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-HTML                     1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-Bash                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Python                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+HTML                     1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+Bash                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Python                   58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 57 mins       ██████████████░░░░░░░░░░░   54.92 % 
-Antigravity IDE          1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-VS Code                  40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Gama                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Notion                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Claude Code              3 hrs               ██████████████░░░░░░░░░░░   57.72 % 
+Antigravity IDE          1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+VS Code                  40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Gama                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Notion                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-Mac                      5 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 45 mins (69.61%)
+⏱ AI Coding Time: 3 hrs 48 mins (72.76%)
 
 ✍️ 2,316 lines written by AI, 223 lines written by hand (91.22% AI-written)
 
-🔤 37,402,440 Input Tokens, 171,917 Output Tokens
+🔤 37,855,072 Input Tokens, 176,698 Output Tokens
 
-💵 $114.67 Estimated AI Cost This Week
+💵 $116.10 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 76 AI Prompts
+🧠 8 AI Sessions, 75 AI Prompts
 
 Sonnet                   2,567 lines         █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 91.22% of written lines came from AI
-📝 Concise Prompter — average 457 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 463 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 25.14% of changed lines were hand-edited
 ```
 
@@ -188,7 +188,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 18:03:27 UTC
+ Last Updated on 04/08/2026 18:30:43 UTC
 <!--END_SECTION:waka-->
 
 ---
