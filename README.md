@@ -90,9 +90,9 @@
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -135,44 +135,44 @@ Sunday                   203 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-HTML                     1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-Bash                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Python                   58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+TypeScript               1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Python                   1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Bash                     58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Docker                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-Claude Code              3 hrs               ██████████████░░░░░░░░░░░   57.72 % 
-Antigravity IDE          1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-VS Code                  40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Gama                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Notion                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Claude Code              3 hrs 38 mins       ███████████████████░░░░░░   74.27 % 
+Antigravity IDE          1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 48 mins (72.76%)
+⏱ AI Coding Time: 4 hrs 28 mins (91.02%)
 
-✍️ 2,316 lines written by AI, 223 lines written by hand (91.22% AI-written)
+✍️ 1,128 lines written by AI, 75 lines written by hand (93.77% AI-written)
 
-🔤 37,855,072 Input Tokens, 176,698 Output Tokens
+🔤 45,063,397 Input Tokens, 155,882 Output Tokens
 
-💵 $116.10 Estimated AI Cost This Week
+💵 $137.41 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 75 AI Prompts
+🧠 8 AI Sessions, 86 AI Prompts
 
-Sonnet                   2,567 lines         █████████████████████████   100.00 % 
+Sonnet                   1,267 lines         █████████████████████████   99.69 % 
+Gemini                   4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.22% of written lines came from AI
-📝 Concise Prompter — average 463 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 25.14% of changed lines were hand-edited
+🤖 AI-Driven — 93.77% of written lines came from AI
+📝 Concise Prompter — average 347 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 9.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -188,7 +188,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 18:30:43 UTC
+ Last Updated on 05/08/2026 18:25:17 UTC
 <!--END_SECTION:waka-->
 
 ---
