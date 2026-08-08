@@ -90,6 +90,10 @@
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%203%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -104,6 +108,73 @@
  > 
 > 🔑 41 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                454 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+🌆 Daytime                697 commits         ███████████░░░░░░░░░░░░░░   42.76 % 
+🌃 Evening                442 commits         ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Tuesday                  264 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Thursday                 300 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Saturday                 148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Sunday                   203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Phnom_Penh
+
+💬 Programming Languages: 
+TypeScript               58 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Other                    36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Docker                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+
+🔥 Editors: 
+Claude Code              2 hrs 9 mins        ████████████████░░░░░░░░░   65.71 % 
+Antigravity IDE          48 mins             ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Antigravity              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+
+💻 Operating System: 
+Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 49 mins (86.21%)
+
+✍️ 531 lines written by AI, 24 lines written by hand (95.68% AI-written)
+
+🔤 27,806,120 Input Tokens, 85,014 Output Tokens
+
+💵 $102.22 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 47 AI Prompts
+
+Sonnet                   534 lines           ████████████████████████░   96.56 % 
+Gemini                   19 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.68% of written lines came from AI
+📝 Concise Prompter — average 265 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 7.53% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -117,7 +188,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 17:53:29 UTC
+ Last Updated on 08/08/2026 17:33:19 UTC
 <!--END_SECTION:waka-->
 
 ---
