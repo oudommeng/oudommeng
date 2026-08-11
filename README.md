@@ -90,9 +90,9 @@
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -135,44 +135,45 @@ Sunday                   206 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-TypeScript               1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Docker                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+TypeScript               57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Python                   46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Other                    44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Docker                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 27 mins       █████████████████░░░░░░░░   69.30 % 
-Antigravity IDE          50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Antigravity              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Claude Code              2 hrs 19 mins       ██████████████░░░░░░░░░░░   57.11 % 
+Antigravity IDE          1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Antigravity              29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Gama                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 10 mins (89.48%)
+⏱ AI Coding Time: 3 hrs 32 mins (86.82%)
 
-✍️ 1,083 lines written by AI, 24 lines written by hand (97.83% AI-written)
+✍️ 807 lines written by AI, 24 lines written by hand (97.11% AI-written)
 
-🔤 29,046,660 Input Tokens, 100,638 Output Tokens
+🔤 27,398,382 Input Tokens, 84,672 Output Tokens
 
-💵 $59.26 Estimated AI Cost This Week
+💵 $55.80 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 73 AI Prompts
+🧠 11 AI Sessions, 77 AI Prompts
 
-Sonnet                   1,113 lines         █████████████████████████   98.32 % 
-Gemini                   19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Sonnet                   810 lines           ████████████████████████░   97.71 % 
+Gemini                   19 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.83% of written lines came from AI
-📝 Concise Prompter — average 410 characters per prompt
+🤖 AI-Driven — 97.11% of written lines came from AI
+📝 Concise Prompter — average 411 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.9% of changed lines were hand-edited
+🚀 High AI Trust — 7.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -188,7 +189,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 17:55:36 UTC
+ Last Updated on 11/08/2026 18:00:50 UTC
 <!--END_SECTION:waka-->
 
 ---
