@@ -90,9 +90,9 @@
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -100,7 +100,7 @@
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 175 Contributions in the Year 2026
+> 🏆 176 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -135,45 +135,45 @@ Sunday                   206 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Other                    34 mins             █████████░░░░░░░░░░░░░░░░   35.23 % 
-Python                   32 mins             █████████░░░░░░░░░░░░░░░░   34.07 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Python                   1 hr 15 mins        █████████████░░░░░░░░░░░░   53.50 % 
+Other                    36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-Antigravity IDE          50 mins             █████████████░░░░░░░░░░░░   51.90 % 
-Antigravity              29 mins             ████████░░░░░░░░░░░░░░░░░   30.49 % 
-Claude Code              13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Gama                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Antigravity IDE          1 hr 33 mins        ████████████████░░░░░░░░░   65.68 % 
+Antigravity              29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Gama                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+GitHubDesktop            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (67.58%)
+⏱ AI Coding Time: 1 hr 47 mins (75.85%)
 
-✍️ 291 lines written by AI, 3 lines written by hand (98.98% AI-written)
+✍️ 291 lines written by AI, 466 lines written by hand (38.44% AI-written)
 
 🔤 44,894 Input Tokens, 4,439 Output Tokens
 
 💵 $0.29 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 12 AI Prompts
+🧠 10 AI Sessions, 18 AI Prompts
 
 Sonnet                   276 lines           ████████████████████████░   94.85 % 
 Gemini                   15 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.98% of written lines came from AI
-📝 Concise Prompter — average 267 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 8.2% of changed lines were hand-edited
+⚖️ Balanced with AI — 38.44% of written lines came from AI
+📝 Concise Prompter — average 338 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 62.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -189,7 +189,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 17:59:49 UTC
+ Last Updated on 13/08/2026 17:59:48 UTC
 <!--END_SECTION:waka-->
 
 ---
