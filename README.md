@@ -135,27 +135,27 @@ Sunday                   206 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        ████████████████░░░░░░░░░   62.47 % 
-Other                    39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Python                   2 hrs 6 mins        █████████████████░░░░░░░░   66.03 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 38 mins       ████████████████████░░░░░   78.01 % 
-Antigravity              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Gama                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Antigravity IDE          2 hrs 27 mins       ███████████████████░░░░░░   76.76 % 
+Antigravity              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Gama                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Mac                      3 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (74.73%)
+⏱ AI Coding Time: 2 hrs 31 mins (78.99%)
 
 ✍️ 276 lines written by AI, 466 lines written by hand (37.2% AI-written)
 
@@ -188,7 +188,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 17:56:37 UTC
+ Last Updated on 15/08/2026 17:23:14 UTC
 <!--END_SECTION:waka-->
 
 ---
