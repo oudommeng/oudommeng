@@ -92,7 +92,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -135,44 +135,41 @@ Sunday                   206 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        █████████████████░░░░░░░░   66.03 % 
-Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Other                    4 hrs 48 mins       ████████████████░░░░░░░░░   65.86 % 
+Python                   2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 27 mins       ███████████████████░░░░░░   76.76 % 
-Antigravity              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Gama                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Antigravity              3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
+Antigravity IDE          2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
+Antigravity Desktop      1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Gama                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (78.99%)
+⏱ AI Coding Time: 6 hrs 34 mins (90.21%)
 
-✍️ 276 lines written by AI, 466 lines written by hand (37.2% AI-written)
+✍️ 0 lines written by AI, 463 lines written by hand (0.0% AI-written)
 
-🔤 44,894 Input Tokens, 4,439 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.29 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 24 AI Prompts
-
-Sonnet                   276 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 9 AI Sessions, 72 AI Prompts
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.2% of written lines came from AI
-📝 Concise Prompter — average 424 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 79.66% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 203 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -188,7 +185,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 17:23:05 UTC
+ Last Updated on 17/08/2026 17:30:00 UTC
 <!--END_SECTION:waka-->
 
 ---
