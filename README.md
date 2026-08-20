@@ -90,9 +90,9 @@
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -135,41 +135,43 @@ Sunday                   206 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Other                    5 hrs 4 mins        ███████████████░░░░░░░░░░   58.85 % 
-Python                   2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Other                    5 hrs 2 mins        ██████████████░░░░░░░░░░░   55.21 % 
+Python                   2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.53 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.37 % 
-Antigravity              3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.36 % 
-Antigravity Desktop      1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Gama                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Antigravity IDE          4 hrs 6 mins        ███████████░░░░░░░░░░░░░░   45.00 % 
+Antigravity              3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.35 % 
+Antigravity Desktop      1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Gama                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Notion                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 Operating System: 
-Mac                      8 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 27 mins (86.37%)
+⏱ AI Coding Time: 7 hrs 38 mins (83.54%)
 
-✍️ 0 lines written by AI, 465 lines written by hand (0.0% AI-written)
+✍️ 15 lines written by AI, 6 lines written by hand (71.43% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 83 AI Prompts
+🧠 8 AI Sessions, 99 AI Prompts
+
+Gemini                   15 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 248 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 71.43% of written lines came from AI
+📝 Concise Prompter — average 264 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 97.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -185,7 +187,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 17:30:26 UTC
+ Last Updated on 20/08/2026 17:32:48 UTC
 <!--END_SECTION:waka-->
 
 ---
