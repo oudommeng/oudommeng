@@ -29,6 +29,16 @@
 
 <br clear="right"/>
 
+<div align="center">
+
+### 🖥️ Live Terminal
+
+<img src="https://raw.githubusercontent.com/oudommeng/github-stats-terminal-style/master/terminals/user_profile.svg" alt="Oudom Meng's Terminal Stats" width="700"/>
+
+<sub>Auto-refreshed daily by <a href="https://github.com/oudommeng/github-stats-terminal-style">github-stats-terminal-style</a></sub>
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
