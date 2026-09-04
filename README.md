@@ -18,18 +18,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif">
-
-- 🎓 Computer Science graduate from **Cambodia Academy of Digital Technology (CADT)**
-- 📚 Pursuing a **Master's in Artificial Intelligence & Data Science**
-- 💻 Passionate **Full-Stack Developer** & **Game Developer**
-- 🌏 Based in **Phnom Penh, Cambodia** 🇰🇭
-- 📫 Reach me at **[oudombig007@gmail.com](mailto:oudombig007@gmail.com)**
-- ⚡ Fun fact: **I eat a lot**, but it fuels my creativity! 😄
-
-<br clear="right"/>
-
 <div align="center">
+
+<img alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif">
 
 ### 🖥️ Live Terminal
 
