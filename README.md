@@ -22,12 +22,6 @@
 
 <img alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif">
 
-### 🖥️ Live Terminal
-
-<img src="https://raw.githubusercontent.com/oudommeng/github-stats-terminal-style/master/terminals/user_profile.svg" alt="Oudom Meng's Terminal Stats" width="700"/>
-
-<sub>Auto-refreshed daily by <a href="https://github.com/oudommeng/github-stats-terminal-style">github-stats-terminal-style</a></sub>
-
 </div>
 
 ---
