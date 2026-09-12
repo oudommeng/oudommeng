@@ -85,9 +85,9 @@
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.70%20million%20lines%20of%20code-blue?style=flat)
 
@@ -130,45 +130,45 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Markdown                 3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-Other                    2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-TypeScript               2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-CSS                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Python                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Other                    2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Markdown                 2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+TypeScript               1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+CSS                      1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs               ████████████████░░░░░░░░░   64.54 % 
-Claude Code              2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Antigravity              1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Antigravity Desktop      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Antigravity IDE          7 hrs 6 mins        ████████████████░░░░░░░░░   62.28 % 
+Claude Code              1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Antigravity              1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Antigravity Desktop      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      13 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 40 mins (90.78%)
+⏱ AI Coding Time: 10 hrs 28 mins (91.73%)
 
-✍️ 2,563 lines written by AI, 142 lines written by hand (94.75% AI-written)
+✍️ 2,355 lines written by AI, 60 lines written by hand (97.52% AI-written)
 
-🔤 478,475 Input Tokens, 176,170 Output Tokens
+🔤 400,616 Input Tokens, 158,792 Output Tokens
 
-💵 $13.57 Estimated AI Cost This Week
+💵 $12.00 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 246 AI Prompts
+🧠 29 AI Sessions, 208 AI Prompts
 
-Gemini                   2,078 lines         ███████████████████░░░░░░   74.32 % 
-Opus                     360 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Sonnet                   358 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Gemini                   2,088 lines         ████████████████████░░░░░   80.99 % 
+Opus                     360 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Sonnet                   130 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.75% of written lines came from AI
-📝 Concise Prompter — average 345 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 12.68% of changed lines were hand-edited
+🤖 AI-Driven — 97.52% of written lines came from AI
+📝 Concise Prompter — average 368 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 2.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -184,7 +184,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 19:32:50 UTC
+ Last Updated on 12/09/2026 19:02:28 UTC
 <!--END_SECTION:waka-->
 
 ---
