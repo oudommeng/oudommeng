@@ -85,9 +85,9 @@
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.97%20million%20lines%20of%20code-blue?style=flat)
 
@@ -130,45 +130,45 @@ Sunday                   224 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Dart                     4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-Other                    3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-CSV                      1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-GAML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Dart                     4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.69 % 
+Other                    2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Python                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.60 % 
-Antigravity IDE          5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
-Gama                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Xcode                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Antigravity CLI          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Claude Code              6 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.99 % 
+Antigravity IDE          5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.06 % 
+Xcode                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Antigravity CLI          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+AdobePhotoshop2025       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Mac                      15 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 20 mins (83.74%)
+⏱ AI Coding Time: 10 hrs 46 mins (83.3%)
 
-✍️ 10,292 lines written by AI, 2,677 lines written by hand (79.36% AI-written)
+✍️ 10,155 lines written by AI, 592 lines written by hand (94.49% AI-written)
 
-🔤 1,815,925 Input Tokens, 495,884 Output Tokens
+🔤 1,685,395 Input Tokens, 468,616 Output Tokens
 
-💵 $69.84 Estimated AI Cost This Week
+💵 $68.60 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 219 AI Prompts
+🧠 21 AI Sessions, 151 AI Prompts
 
-Opus                     10,836 lines        █████████████████████████   98.19 % 
-Sonnet                   121 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Gemini                   79 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Opus                     10,836 lines        █████████████████████████   99.42 % 
+Gemini                   53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Sonnet                   10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.36% of written lines came from AI
-📝 Concise Prompter — average 476 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 25.13% of changed lines were hand-edited
+🤖 AI-Driven — 94.49% of written lines came from AI
+📄 Detailed Prompter — average 647 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 5.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -184,7 +184,7 @@ GAML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 20:20:49 UTC
+ Last Updated on 25/09/2026 20:21:42 UTC
 <!--END_SECTION:waka-->
 
 ---
