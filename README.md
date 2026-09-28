@@ -85,9 +85,9 @@
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.00%20million%20lines%20of%20code-blue?style=flat)
 
@@ -95,11 +95,11 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 339 Contributions in the Year 2026
+> 🏆 340 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 43 Private Repositories 
  > 
@@ -130,45 +130,44 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Dart                     4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.75 % 
-Other                    2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Python                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Python                   2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+Dart                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Other                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+TypeScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 56 mins       █████████████░░░░░░░░░░░░   50.57 % 
-Antigravity IDE          5 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.12 % 
-Xcode                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Antigravity CLI          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-AdobePhotoshop2025       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Claude Code              5 hrs 20 mins       ███████████████░░░░░░░░░░   60.02 % 
+Antigravity IDE          2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.84 % 
+Xcode                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Postman                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Notion                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      13 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 29 mins (83.71%)
+⏱ AI Coding Time: 7 hrs 27 mins (83.82%)
 
-✍️ 11,751 lines written by AI, 593 lines written by hand (95.2% AI-written)
+✍️ 7,721 lines written by AI, 315 lines written by hand (96.08% AI-written)
 
-🔤 2,026,436 Input Tokens, 552,111 Output Tokens
+🔤 1,631,942 Input Tokens, 500,116 Output Tokens
 
-💵 $76.47 Estimated AI Cost This Week
+💵 $70.86 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 163 AI Prompts
+🧠 14 AI Sessions, 107 AI Prompts
 
-Opus                     12,429 lines        █████████████████████████   99.47 % 
-Gemini                   56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Sonnet                   10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Opus                     7,753 lines         █████████████████████████   99.96 % 
+Gemini                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.2% of written lines came from AI
-📄 Detailed Prompter — average 607 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 4.8% of changed lines were hand-edited
+🤖 AI-Driven — 96.08% of written lines came from AI
+📄 Detailed Prompter — average 532 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 4.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -184,7 +183,7 @@ GAML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 20:02:43 UTC
+ Last Updated on 28/09/2026 22:29:54 UTC
 <!--END_SECTION:waka-->
 
 ---
