@@ -106,21 +106,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                560 commits         ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-🌆 Daytime                834 commits         ██████████░░░░░░░░░░░░░░░   41.91 % 
-🌃 Evening                535 commits         ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-🌙 Night                  61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+🌞 Morning                560 commits         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+🌆 Daytime                836 commits         ██████████░░░░░░░░░░░░░░░   41.97 % 
+🌃 Evening                535 commits         ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+🌙 Night                  61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Tuesday                  373 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Thursday                 350 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Saturday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Sunday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Tuesday                  375 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Thursday                 350 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Saturday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Sunday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 ```
 
 
@@ -130,44 +130,44 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Python                   4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.91 % 
-Markdown                 2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Bash                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-TypeScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Python                   4 hrs               ███████████░░░░░░░░░░░░░░   45.78 % 
+Markdown                 1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Bash                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+TypeScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 58 mins       ███████████████████░░░░░░   75.66 % 
-Antigravity IDE          2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Xcode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              7 hrs 4 mins        ████████████████████░░░░░   80.99 % 
+Antigravity IDE          1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Xcode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      10 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 15 mins (87.82%)
+⏱ AI Coding Time: 7 hrs 46 mins (88.86%)
 
-✍️ 8,549 lines written by AI, 230 lines written by hand (97.38% AI-written)
+✍️ 4,355 lines written by AI, 18 lines written by hand (99.59% AI-written)
 
-🔤 2,561,375 Input Tokens, 780,566 Output Tokens
+🔤 2,260,721 Input Tokens, 698,493 Output Tokens
 
-💵 $62.90 Estimated AI Cost This Week
+💵 $58.28 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 128 AI Prompts
+🧠 11 AI Sessions, 107 AI Prompts
 
-Opus                     8,583 lines         █████████████████████████   99.97 % 
-Gemini                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Opus                     4,385 lines         █████████████████████████   99.93 % 
+Gemini                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.38% of written lines came from AI
-📝 Concise Prompter — average 469 characters per prompt
+🤖 AI-Driven — 99.59% of written lines came from AI
+📝 Concise Prompter — average 292 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 2.81% of changed lines were hand-edited
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -183,7 +183,7 @@ GAML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 21:19:17 UTC
+ Last Updated on 01/10/2026 21:40:16 UTC
 <!--END_SECTION:waka-->
 
 ---
