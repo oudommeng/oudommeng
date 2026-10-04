@@ -95,7 +95,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 340 Contributions in the Year 2026
+> 🏆 351 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -106,21 +106,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                560 commits         ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-🌆 Daytime                838 commits         ███████████░░░░░░░░░░░░░░   42.03 % 
-🌃 Evening                535 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-🌙 Night                  61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+🌞 Morning                560 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+🌆 Daytime                847 commits         ███████████░░░░░░░░░░░░░░   42.29 % 
+🌃 Evening                535 commits         ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+🌙 Night                  61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Tuesday                  377 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Thursday                 350 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Saturday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Sunday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Tuesday                  377 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Thursday                 350 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Saturday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Sunday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 ```
 
 
@@ -130,60 +130,58 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Python                   4 hrs               ███████████░░░░░░░░░░░░░░   45.78 % 
-Markdown                 1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Bash                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-TypeScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   35.33 % 
+Bash                     1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+TypeScript               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 4 mins        ████████████████████░░░░░   80.99 % 
-Antigravity IDE          1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Xcode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Claude Code              4 hrs 2 mins        ███████████████████░░░░░░   74.02 % 
+Antigravity IDE          1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+Xcode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      8 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 46 mins (88.86%)
+⏱ AI Coding Time: 4 hrs 37 mins (84.57%)
 
-✍️ 4,355 lines written by AI, 18 lines written by hand (99.59% AI-written)
+✍️ 2,151 lines written by AI, 17 lines written by hand (99.22% AI-written)
 
-🔤 2,260,721 Input Tokens, 698,493 Output Tokens
+🔤 1,263,987 Input Tokens, 416,222 Output Tokens
 
-💵 $58.28 Estimated AI Cost This Week
+💵 $38.17 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 107 AI Prompts
+🧠 7 AI Sessions, 71 AI Prompts
 
-Opus                     4,385 lines         █████████████████████████   99.93 % 
-Gemini                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Opus                     2,184 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📝 Concise Prompter — average 292 characters per prompt
+🤖 AI-Driven — 99.22% of written lines came from AI
+📝 Concise Prompter — average 376 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.75% of changed lines were hand-edited
+🚀 High AI Trust — 1.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-TypeScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Jupyter Notebook         10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-GAML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Python                   26 repos            ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+TypeScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Jupyter Notebook         10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+GAML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 
 
 
 
- Last Updated on 03/10/2026 19:45:01 UTC
+ Last Updated on 04/10/2026 19:58:44 UTC
 <!--END_SECTION:waka-->
 
 ---
